@@ -1,6 +1,6 @@
-# Nervos Developer Training Course Scripts
+# Nervos Developer Training Course Script Labs
 
-This repo contains the lab scripts (smart contracts) for the Nervos Developer Training Course.
+This repo contains the script labs for the Nervos Developer Training Course.
 
 The content you find here is designed to be used with lessons.
 
